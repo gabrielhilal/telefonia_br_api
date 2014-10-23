@@ -4,7 +4,7 @@ API to illustrate the functionality of [telefonia_br](https://github.com/gabriel
 
 ## Usage
 
-[http://telefonia_br.herokuapp.com?tel=](http://telefonia_br.herokuapp.com?tel=)
+[http://telefonia-br.herokuapp.com?tel=](http://telefonia-br.herokuapp.com?tel=)
 
     http://telefonia_br.herokuapp.com?tel=YYXXXXXXXX
 
